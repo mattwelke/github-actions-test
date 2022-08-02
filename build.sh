@@ -1,3 +1,3 @@
 #!/bin/env bash
 
-echo "Build script version 2."
+echo "Build script version 3."
